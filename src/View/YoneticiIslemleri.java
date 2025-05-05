@@ -1,8 +1,3 @@
-//Enes Öner 220610026
-//Yusuf Ilıca 220610025
-//Mehmet Salih Demirci 220610007
-//Göktuğ Çakıroğlu 220611008
-//Cafer Aydın 220611035
 package View;
 
 import java.awt.EventQueue;
@@ -40,9 +35,7 @@ public class YoneticiIslemleri extends JFrame {
     private JFormattedTextField mskSaat;
     private JFormattedTextField mskKaptanNo;
 
-    /**
-     * Launch the application.
-     */
+    
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
