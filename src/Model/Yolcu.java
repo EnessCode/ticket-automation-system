@@ -1,5 +1,4 @@
 package Model;
-
 import javax.swing.JOptionPane;
 
 import View.YolcuIslemleri;

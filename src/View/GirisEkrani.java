@@ -38,7 +38,6 @@ public class GirisEkrani extends JFrame {
 	private JPasswordField passwordFieldYonetici;
 	private JPasswordField passwordFieldYolcu;
 	private DBConnection conn=new DBConnection();
-
 	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {

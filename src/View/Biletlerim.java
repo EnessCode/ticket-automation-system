@@ -1,5 +1,4 @@
 package View;
-
 import java.awt.EventQueue;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
